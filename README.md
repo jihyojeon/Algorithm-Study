@@ -1,9 +1,9 @@
 # Algorithm-Study
 Step by Step☆★
 Daily Update
->> Not the official solution <<
->> These are my brain-ficial <<
->> Highly Recommend: Do not believe me <<
+>> Not the official solution /n
+>> These are my brain-ficial /n
+>> Highly Recommend: Do not believe me /n
 
 ## follow https://www.acmicpc.net/step in Python3
 
