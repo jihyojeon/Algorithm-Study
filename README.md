@@ -5,7 +5,7 @@ Daily Update
 >> These are my brain-ficial
 >>> Highly Recommend: Do not believe me. Believe yourself.
 
-## follow https://www.acmicpc.net/step in Python3
+## Follow https://www.acmicpc.net/step in Python3
 
 Step by Step☆★
 1. Input output and arithmetic operation
