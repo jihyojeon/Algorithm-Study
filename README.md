@@ -15,3 +15,4 @@ Step by Step☆★
 5. Project 1
 6. One dimentional array
 7. Function
+8. String
