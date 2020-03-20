@@ -14,3 +14,4 @@ Step by Step☆★
 4. While statement
 5. Project 1
 6. One dimentional array
+7. Function
