@@ -16,3 +16,5 @@ Step by Step☆★
 6. One dimentional array
 7. Function
 8. String
+9. Math 1
+10. Math 2
