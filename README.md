@@ -19,3 +19,7 @@ Step by Step☆★
 9. Math 1
 10. Math 2
 11. Recursion
+12. Brute Force
+13. Arrangement
+14. Back tracking
+* Catch me if you can game
