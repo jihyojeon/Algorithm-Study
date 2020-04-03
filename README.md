@@ -19,3 +19,8 @@ Step by Step☆★
 9. Math 1
 10. Math 2
 11. Recursion
+12. Brute Force
+13. Arrangement
+14. Back tracking
+15. Catch me if you can game
+* from https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/
