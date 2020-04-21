@@ -5,7 +5,8 @@ Daily Update
 >> These are my brain-ficial
 >>> Highly Recommend: Do not believe me. Believe yourself.
 
-## Follow https://www.acmicpc.net/step in Python3
+## Folder BJ
+### Follow https://www.acmicpc.net/step in Python3
 
 Step by Step☆★
 1. Input output and arithmetic operation
@@ -24,3 +25,6 @@ Step by Step☆★
 14. Back tracking
 15. Catch me if you can game
 * from https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/
+
+## Folder SW Expert Academy
+### Follow https://swexpertacademy.com/ in Python3
