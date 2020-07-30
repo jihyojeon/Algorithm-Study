@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic Data Structure/string/group_anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Data Structure/string/most_common_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/reorder_log_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Data Structure/string/reorder_log_files.py" afterDir="false" />
-    </list>
+    <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596097096356</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic data structure _ array _ 1">
+      <created>1596107429951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596107429951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="basic data structure _ array _ 1">
+      <created>1596107627927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596107627927</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic data structure _ string _ 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic data structure _ string _ 1" />
+    <MESSAGE value="basic data structure _ array _ 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic data structure _ array _ 1" />
   </component>
 </project>
