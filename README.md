@@ -28,3 +28,8 @@ Step by Step☆★
 
 ## Folder SW Expert Academy
 ### Follow https://swexpertacademy.com/ in Python3
+
+## Folder Basic Data Structure
+### Follow the book down below
+### http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791189909178&orderClick=4bb
+1. Coding problems using basic data structure
