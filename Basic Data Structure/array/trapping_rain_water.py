@@ -20,4 +20,5 @@ class Solution:
             else:
                 volume += right_max - height[right]
                 right -= 1
+
         return volume
