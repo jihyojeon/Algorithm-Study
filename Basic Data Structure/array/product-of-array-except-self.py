@@ -9,4 +9,5 @@ class Solution:
         for i in range(len(nums)-1,-1,-1):
             left[i] = left[i] * p
             p = p * nums[i]
+
         return left
