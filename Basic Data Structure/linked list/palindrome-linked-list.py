@@ -3,6 +3,8 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+import collections
+
 class Solution:
     def LIST_isPalindrome(self, head: ListNode) -> bool:
         list_head = []
