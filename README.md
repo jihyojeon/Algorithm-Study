@@ -33,5 +33,5 @@ Step by Step☆★
 ### Follow the book down below
 ### http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791189909178&orderClick=4bb
 ### leetcode.com
-1. Coding problems using basic data structure
+1. Coding problems using basic data structure: array, 
 2. Coding problems using basic algorithm
