@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="bjo">
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Dynamic Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Dynamic Programming.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Math 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Math 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/0902.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/0902.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
