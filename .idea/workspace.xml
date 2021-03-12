@@ -20,10 +20,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="bjo">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/BJ/BFS,DFS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/etc/checking.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Greedy Algorithm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Greedy Algorithm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/checking-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B+tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/etc/B+tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/0825-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/0825-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/0902-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/0902-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/BFS,DFS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/BFS,DFS-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Back Tracking-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Back Tracking-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Brute Force-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Brute Force-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Divide and Conquer-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Divide and Conquer-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Dynamic Programming-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Dynamic Programming-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Math 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Math 1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/arrangement-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/arrangement-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/for statement-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/for statement-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/input_output-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/input_output-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/queue-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/queue-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/0825.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/0825.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/0902.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/0902.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/BFS,DFS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Back Tracking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Back Tracking.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Brute Force.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Brute Force.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Divide and Conquer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Divide and Conquer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Dynamic Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Dynamic Programming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Function.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Greedy Algorithm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Greedy Algorithm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/If statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/If statement.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Input output and arithmetic operation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Input output and arithmetic operation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Math 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Math 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Math2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Math2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Recursion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Recursion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/String.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/String.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/arrangement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/arrangement.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/for statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/for statement.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/input_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/input_output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/new_game_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/new_game_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/one dimensional array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/one dimensional array.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/project 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/project 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/queue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/queue.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/while statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/while statement.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/array-partition-i.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/array-partition-i.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/best-time-to-buy-and-sell-stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/best-time-to-buy-and-sell-stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/product-of-array-except-self.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/product-of-array-except-self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/three-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/three-sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/trapping_rain_water.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/trapping_rain_water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/two-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/two-sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/linked list/palindrome-linked-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/linked list/palindrome-linked-list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/group_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/group_anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/most_common_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/most_common_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/reorder_log_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/reorder_log_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/reverse_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prev Prob. Set/.ipynb_checkpoints/Catch me if you can-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Prev Prob. Set/.ipynb_checkpoints/Catch me if you can-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prev Prob. Set/Catch me if you can.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Prev Prob. Set/Catch me if you can.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/.ipynb_checkpoints/Level 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Programmers/.ipynb_checkpoints/Level 1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/Level 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Programmers/Level 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/.ipynb_checkpoints/Basic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/SW Expert Academy/.ipynb_checkpoints/Basic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/Basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/SW Expert Academy/Basic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_extra/cordvalue.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/cordvalue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_extra/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_extra/sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_extra/urlopen.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/urlopen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/etc/searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +114,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\Algorithm-Study\2020" />
+      <recent name="E:\PycharmProjects\Algorithm-Study\etc." />
+      <recent name="C:\Users\Jihyo Jeon\Documents\GitHub\Algorithm-Study\Basic Data Structure\string" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\PycharmProjects\Algorithm-Study\python_extra" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jihyo Jeon\Documents\GitHub\Algorithm-Study\Basic Data Structure\string" />
     </key>
   </component>
   <component name="RunManager" selected="Python.sorting">
@@ -290,9 +354,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="bjo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3620" y="455" key="FileChooserDialogImpl" timestamp="1597813603410">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1601961433133">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601961433133" />
     <state x="3620" y="455" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1597813603410" />
     <state width="1837" height="302" key="GridCell.Tab.0.bottom" timestamp="1597796706689">
       <screen x="0" y="0" width="2560" height="1400" />
