@@ -19,73 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="bjo">
-      <change afterPath="$PROJECT_DIR$/2020/BJ/BFS,DFS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/etc/checking.ipynb" afterDir="false" />
+    <list default="true" id="8fa2a59d-002c-4905-912d-a93a3a53a5c6" name="Default Changelist" comment="Apply gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/checking-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B+tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/etc/B+tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/0825-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/0825-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/0902-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/0902-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/BFS,DFS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/BFS,DFS-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Back Tracking-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Back Tracking-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Brute Force-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Brute Force-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Divide and Conquer-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Divide and Conquer-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Dynamic Programming-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Dynamic Programming-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Greedy Algorithm-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/Math 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/Math 1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/arrangement-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/arrangement-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/for statement-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/for statement-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/input_output-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/input_output-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/.ipynb_checkpoints/queue-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/.ipynb_checkpoints/queue-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/0825.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/0825.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/0902.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/0902.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/BFS,DFS.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Back Tracking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Back Tracking.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Brute Force.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Brute Force.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Divide and Conquer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Divide and Conquer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Dynamic Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Dynamic Programming.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Function.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Greedy Algorithm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Greedy Algorithm.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/If statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/If statement.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Input output and arithmetic operation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Input output and arithmetic operation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Math 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Math 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Math2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Math2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Recursion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/Recursion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/String.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/String.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/arrangement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/arrangement.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/for statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/for statement.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/input_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/input_output.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/new_game_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/new_game_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/one dimensional array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/one dimensional array.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/project 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/project 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/queue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/queue.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/while statement.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/BJ/while statement.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/array-partition-i.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/array-partition-i.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/best-time-to-buy-and-sell-stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/best-time-to-buy-and-sell-stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/product-of-array-except-self.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/product-of-array-except-self.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/three-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/three-sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/trapping_rain_water.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/trapping_rain_water.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/array/two-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/array/two-sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/linked list/palindrome-linked-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/linked list/palindrome-linked-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/group_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/group_anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/most_common_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/most_common_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/reorder_log_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/reorder_log_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Data Structure/string/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Basic Data Structure/string/reverse_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prev Prob. Set/.ipynb_checkpoints/Catch me if you can-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Prev Prob. Set/.ipynb_checkpoints/Catch me if you can-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prev Prob. Set/Catch me if you can.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Prev Prob. Set/Catch me if you can.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/.ipynb_checkpoints/Level 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Programmers/.ipynb_checkpoints/Level 1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/Level 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/Programmers/Level 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW Expert Academy/.ipynb_checkpoints/Basic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/SW Expert Academy/.ipynb_checkpoints/Basic-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW Expert Academy/Basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2020/SW Expert Academy/Basic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_extra/cordvalue.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/cordvalue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_extra/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_extra/sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/sorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_extra/urlopen.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/python_extra/urlopen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/etc/searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\Algorithm-Study" />
       <recent name="E:\PycharmProjects\Algorithm-Study\2020" />
       <recent name="E:\PycharmProjects\Algorithm-Study\etc." />
       <recent name="C:\Users\Jihyo Jeon\Documents\GitHub\Algorithm-Study\Basic Data Structure\string" />
@@ -328,7 +264,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597740861052</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bjo">
+      <created>1615512226838</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615512226838</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Rename files">
+      <created>1615512391640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615512391640</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Apply gitignore">
+      <created>1615512476205</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615512476205</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,37 +308,22 @@
     <MESSAGE value="basic data structure _ array _ 4" />
     <MESSAGE value="basic data structure _ linked _ list _ 1" />
     <MESSAGE value="bjo" />
-    <option name="LAST_COMMIT_MESSAGE" value="bjo" />
+    <MESSAGE value="Rename files" />
+    <MESSAGE value="Apply gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apply gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1601961433133">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3697" y="591" key="VCS.EditChangelistDialog" timestamp="1615512278429">
+      <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601961433133" />
-    <state x="3620" y="455" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1597813603410" />
-    <state width="1837" height="302" key="GridCell.Tab.0.bottom" timestamp="1597796706689">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3697" y="591" key="VCS.EditChangelistDialog/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1615512278429" />
+    <state x="3332" y="367" key="Vcs.Push.Dialog.v2" timestamp="1615512478674">
+      <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state width="1837" height="302" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597796706689" />
-    <state width="1837" height="302" key="GridCell.Tab.0.center" timestamp="1597796706689">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3332" y="367" key="Vcs.Push.Dialog.v2/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1615512478674" />
+    <state x="3608" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615512721714">
+      <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state width="1837" height="302" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597796706689" />
-    <state width="1837" height="302" key="GridCell.Tab.0.left" timestamp="1597796706689">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1837" height="302" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597796706689" />
-    <state width="1837" height="302" key="GridCell.Tab.0.right" timestamp="1597796706689">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1837" height="302" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597796706689" />
-    <state x="531" y="304" key="SettingsEditor" timestamp="1597739227835">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="531" y="304" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597739227835" />
-    <state x="622" y="393" key="Vcs.Push.Dialog.v2" timestamp="1597740949515">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="622" y="393" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1597740949515" />
+    <state x="3608" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1615512721714" />
   </component>
 </project>
